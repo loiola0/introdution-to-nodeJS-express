@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "introdution-to-nodejs-express",
+  "description": "Codes used during introduction to NodeJs course with Express offered by Digital Innovaion One.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loiola0/introdution-to-nodeJS-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loiola0/introdution-to-nodeJS-express/issues"
+  },
+  "homepage": "https://github.com/loiola0/introdution-to-nodeJS-express#readme"
+}
