@@ -35,6 +35,9 @@ const userRoute = (app) => {
                 res.status(201).send('OK');
 
         })
+        .put((req,res) =>{
+            
+        })
 }
 
 module.exports = userRoute;
