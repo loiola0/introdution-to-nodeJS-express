@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "name": "introdution-to-nodejs-express",
   "description": "Codes used during introduction to NodeJs course with Express offered by Digital Innovaion One.",
